@@ -6,7 +6,7 @@
  * Region-based Voxelwise (RBV) partial volume correction.
  */
 /*
- * Original Author: Douglas N. Greve
+ * Original Author: Douglas N. Gr
  *
  * Copyright © 2021 The General Hospital Corporation (Boston, MA) "MGH"
  *
